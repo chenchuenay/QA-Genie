@@ -19,7 +19,7 @@ Whether you're testing a login flow, a payment gateway, or an API endpoint, QA G
 
 ## Website
 
-Visit [qagenies.com](https://qagenies.com) to learn more and sign up for updates.
+Visit [qagenies.com](https://qagenies.com) to learn more.
 
 ---
 
